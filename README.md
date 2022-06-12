@@ -1,1 +1,1 @@
-# vanilla-js-projects
+# Go Make Things: Vanilla JS Projects
